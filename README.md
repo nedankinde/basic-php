@@ -7,7 +7,7 @@ npm install livereload -g
 
 Clone repo and start PHP server:
 ```
-git clone nedankinde/basic-php
+git clone https://github.com/nedankinde/basic-php.git
 
 cd basic-php
 
